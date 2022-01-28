@@ -4,7 +4,7 @@
 ### Lista zadań 
 - [ ] Zdać
 - [ ] Zaliczyć warsztat 
-- [ ] Dostać wynik z poprawy webów
+- [ ] Dostać wynik z poprawy webów...
 
 ![obrazek](https://github.com/Magdam550/warsztat_programisty/blob/master/zdj.png)
 
